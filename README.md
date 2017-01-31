@@ -5,3 +5,5 @@ First information and work on GitHub.
   So this is written through the editor
   And here is another line
   Final third
+
+This is the second edit while I try and get my head round this
